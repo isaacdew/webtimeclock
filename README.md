@@ -1,4 +1,4 @@
-Web Time Clock version 2.0.0 12/12/2016
+Web Time Clock version 2.1.0 05/19/2018
 
 ![Timer](https://cloud.githubusercontent.com/assets/11914422/21096030/005282b8-c056-11e6-94c6-4517ffff650f.png)
 
